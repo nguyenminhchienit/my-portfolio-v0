@@ -15,9 +15,9 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          <strong className="purple">Coming soon ... </strong>
         </h1>
-        <p style={{ color: "white" }}>
+        {/* <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
@@ -87,7 +87,7 @@ function Projects() {
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
-        </Row>
+        </Row> */}
       </Container>
     </Container>
   );
